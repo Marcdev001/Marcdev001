@@ -1,39 +1,34 @@
-  Hi there! 👋  
-Welcome to my exploration zone, some things here might be broken or half-baked. But hey, that's the fun of building! 🚀  
+# Hi, I'm Martin 👋
 
----
+Solo full-stack developer and founder based in Nigeria. I build and ship software products on my own, from the first line of code to deployment and users.
 
-🔍 About Me  
-I'm a Fullstack Developer with a focus on frontend development, passionate about creating intuitive and user-friendly web applications. My journey involves blending creativity with technical expertise to build solutions that solve real-world problems. I enjoy experimenting with new technologies, optimizing workflows, and crafting clean, efficient code.  
+## 🔍 What I Do
 
-My expertise includes:  
-- Frontend Development (React, Next.js, JavaScript, HTML/CSS, Tailwindcss)  
-- Backend Development (Node.js, Express, APIs, python)
-- Database (Mongodb)  
-- AI Tooling and Integration  
-- Code Optimization and Debugging  
+I design, build, and launch complete products without a team. That means I make the product decisions, write the frontend and backend, wire up the AI, and ship. I care about software that's fast, clean, and affordable to use, especially for developers and businesses in markets that are often overlooked.
 
-When I'm not coding, you'll find me exploring new ideas, contributing to open-source projects, or documenting my learning journey.  
+## 🛠️ Tech & Expertise
 
----
+- **Frontend:** React, Next.js, JavaScript, HTML/CSS, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, Python
+- **Database:** MongoDB
+- **AI Integration:** LLM-powered features, AI tooling, and workflows
+- **Blockchain Tooling:** Web3 integrations and developer tooling
+- **SaaS Development:** Auth, billing, dashboards, and shipping products end to end
 
-### 🏆 Notable Projects  
+## 🚀 Currently
 
-- **[OmnicoreAI](https://omnicore-ai.vercel.app/)** – An advanced AI-powered platform for data analysis, designed to simplify complex datasets and provide actionable insights.  
-- **[Bugless](https://bugless-application.vercel.app/)** – A tool for code optimization and error detection, helping developers write cleaner and more efficient code.  
+- Building AI-powered products as a solo founder
+- Shipping fast, learning in public, and iterating from real feedback
 
----
-💞️ I’m looking to collaborate on...
-- Open-source projects that push the boundaries of technology
-- Building intuitive web applications with a focus on user experience
-- AI-driven tools and platforms for data analysis and optimization
+## 🤝 Open To
 
----
-📫 How to reach me...
-LinkedIn : [linkedin.com/in/marcdev001](https://www.linkedin.com/in/martin-chikwuelum-0036052a1/)
-Twitter : [@Marcdev001](https://x.com/Martin543216?t=mYRrq18PLqCjxXmqCOdpBg&s=09)
-Email : martinchikwuolum@gmail.com.com
-<!---
-Marcdev001/Marcdev001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Collaborating on open-source projects
+- AI-driven developer tools and SaaS products
+- Conversations with founders and developers building for emerging markets
+
+## 📫 Reach Me
+
+- GitHub: [@Marcdev001](https://github.com/Marcdev001)
+- Email / Twitter / LinkedIn: add yours here
+
+> Some things here are experiments. Building in the open means not everything is polished.
